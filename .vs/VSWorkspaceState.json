@@ -2,10 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\mainapp",
-    "\\mainapp\\assets",
+    "\\mainapp\\assets\\css",
     "\\mainapp\\mainapp",
-    "\\mainapp\\products"
+    "\\mainapp\\products",
+    "\\mainapp\\products\\templates",
+    "\\mainapp\\products\\templates\\products",
+    "\\mainapp\\templates"
   ],
-  "SelectedNode": "\\mainapp\\products\\models.py",
+  "SelectedNode": "\\mainapp\\templates\\navbar.html",
   "PreviewInSolutionExplorer": false
 }
